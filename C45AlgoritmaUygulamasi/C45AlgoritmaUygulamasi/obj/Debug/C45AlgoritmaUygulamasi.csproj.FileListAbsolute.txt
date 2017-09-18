@@ -1,0 +1,17 @@
+D:\workspace\ict\YazLab\C45AlgoritmaUygulamasi\C45AlgoritmaUygulamasi\bin\Debug\C45AlgoritmaUygulamasi.exe.config
+D:\workspace\ict\YazLab\C45AlgoritmaUygulamasi\C45AlgoritmaUygulamasi\bin\Debug\C45AlgoritmaUygulamasi.exe
+D:\workspace\ict\YazLab\C45AlgoritmaUygulamasi\C45AlgoritmaUygulamasi\bin\Debug\C45AlgoritmaUygulamasi.pdb
+D:\workspace\ict\YazLab\C45AlgoritmaUygulamasi\C45AlgoritmaUygulamasi\obj\Debug\C45AlgoritmaUygulamasi.Form1.resources
+D:\workspace\ict\YazLab\C45AlgoritmaUygulamasi\C45AlgoritmaUygulamasi\obj\Debug\C45AlgoritmaUygulamasi.Properties.Resources.resources
+D:\workspace\ict\YazLab\C45AlgoritmaUygulamasi\C45AlgoritmaUygulamasi\obj\Debug\C45AlgoritmaUygulamasi.csproj.GenerateResource.Cache
+D:\workspace\ict\YazLab\C45AlgoritmaUygulamasi\C45AlgoritmaUygulamasi\obj\Debug\C45AlgoritmaUygulamasi.exe
+D:\workspace\ict\YazLab\C45AlgoritmaUygulamasi\C45AlgoritmaUygulamasi\obj\Debug\C45AlgoritmaUygulamasi.pdb
+C:\Users\Bedirhan\Desktop\Yaz Lab 2.2\C45AlgoritmaUygulamasi\C45AlgoritmaUygulamasi\bin\Debug\C45AlgoritmaUygulamasi.exe.config
+C:\Users\Bedirhan\Desktop\Yaz Lab 2.2\C45AlgoritmaUygulamasi\C45AlgoritmaUygulamasi\bin\Debug\C45AlgoritmaUygulamasi.exe
+C:\Users\Bedirhan\Desktop\Yaz Lab 2.2\C45AlgoritmaUygulamasi\C45AlgoritmaUygulamasi\bin\Debug\C45AlgoritmaUygulamasi.pdb
+C:\Users\Bedirhan\Desktop\Yaz Lab 2.2\C45AlgoritmaUygulamasi\C45AlgoritmaUygulamasi\obj\Debug\C45AlgoritmaUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\Bedirhan\Desktop\Yaz Lab 2.2\C45AlgoritmaUygulamasi\C45AlgoritmaUygulamasi\obj\Debug\C45AlgoritmaUygulamasi.Form1.resources
+C:\Users\Bedirhan\Desktop\Yaz Lab 2.2\C45AlgoritmaUygulamasi\C45AlgoritmaUygulamasi\obj\Debug\C45AlgoritmaUygulamasi.Properties.Resources.resources
+C:\Users\Bedirhan\Desktop\Yaz Lab 2.2\C45AlgoritmaUygulamasi\C45AlgoritmaUygulamasi\obj\Debug\C45AlgoritmaUygulamasi.csproj.GenerateResource.Cache
+C:\Users\Bedirhan\Desktop\Yaz Lab 2.2\C45AlgoritmaUygulamasi\C45AlgoritmaUygulamasi\obj\Debug\C45AlgoritmaUygulamasi.exe
+C:\Users\Bedirhan\Desktop\Yaz Lab 2.2\C45AlgoritmaUygulamasi\C45AlgoritmaUygulamasi\obj\Debug\C45AlgoritmaUygulamasi.pdb
